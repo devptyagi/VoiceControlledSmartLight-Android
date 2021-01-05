@@ -9,4 +9,6 @@ For NodeMCU Setup: https://github.com/devptyagi/VoiceControlledSmartLight-ESP826
 
 <img src="screenshot.png" height="400">
 
+## GIF:
 
+<img src="workingGIF.gif" height="400">
